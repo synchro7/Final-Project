@@ -1,0 +1,21 @@
+Product Detail
+---------
+Grand Theft Auto V is an open world, action-adventure video game developed by Rockstar North
+The game is played from either a first-person or third-person view and its world is navigated on foot or by vehicle. Players control the three lead protagonists throughout the single-player mode, switching between them both during and outside of missions. The story is centred on the heist sequences, and many of the missions involve shooting and driving gameplay. Players who commit crimes may incite a response from law enforcement agencies, measured by a "wanted" system that governs the aggression of their response. Grand Theft Auto Online, the online multiplayer mode, lets up to 30 players explore the open world and engage in cooperative or competitive game matches.
+
+System Requirements
+Minimum System Requirements
+OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1, Windows Vista 64 Bit Service Pack 2* (*NVIDIA video card recommended if running Vista OS) 
+Processor: Intel Core 2 Quad CPU Q6600 @ 2.40GHz (4 CPUs) / AMD Phenom 9850 Quad-Core Processor (4 CPUs) @ 2.5GHz 
+Memory: 4 GB RAM 
+Graphics: NVIDIA 9800 GT 1GB / AMD HD 4870 1GB (DX 10, 10.1, 11) 
+Hard Drive: 65 GB available space 
+Sound Card: 100% DirectX 10 compatible
+
+Recommend Requirements
+OS: Windows 8.1 64 Bit, Windows 8 64 Bit, Windows 7 64 Bit Service Pack 1 
+Processor: Intel Core i5 3470 @ 3.2GHz (4 CPUs) / AMD X8 FX-8350 @ 4GHz (8 CPUs) 
+Memory: 8 GB RAM 
+Graphics: NVIDIA GTX 660 2GB / AMD HD 7870 2GB 
+Hard Drive: 65 GB available space 
+Sound Card: 100% DirectX 10 compatible 

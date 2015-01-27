@@ -1,0 +1,27 @@
+Product Detail
+---------
+Built from the legendary DNA of its award-winning predecessor, Far Cry 4 delivers the most expansive and immersive Far Cry experience ever in an entirely new and massive open world. With integrated drop-in/drop-out open world co-op play, Far Cry 4 re-imagines the cooperative experience for the next generation. You’ll now be able to discover and explore the living open world of Kyrat together.
+
+Hidden in the towering Himalayas lies Kyrat, a country steeped in tradition and violence. You are Ajay Ghale. Traveling to Kyrat to fulfill your mother’s dying wish, you find yourself caught up in a civil war to overthrow the oppressive regime of dictator Pagan Min. Explore and navigate this vast open world, where danger and unpredictability lurk around every corner. Here, every decision counts, and every second is a story. Welcome to Kyrat.
+
+
+System Requirements
+Minimum System Requirements
+---------
+OS: Windows? 7 (SP1) / Windows? 8 / Windows? 8.1 / (64-bit only)
+Processor: 2.6 GHz Intel? Core? i5-750 or 3.2 GHz AMD Phenom? II X4 955
+Memory: 4 GB RAM
+Graphics: NVIDIA GeForce GTX 460 or AMD Radeon HD5850 (1 GB VRAM)
+DirectX: Version 11
+Network: Broadband Internet connection
+Hard Drive: 30 GB available space
+Sound Card: DirectX-compatible (5.1 surround sound recommended)
+Recommend Requirements
+OS: Windows? 7 (SP1) / Windows? 8 / Windows? 8.1 / (64-bit only)
+Processor: 2.5 GHz Intel? Core? i5-2400S or 4.0 GHz AMD FX-8350 or better
+Memory: 8 GB RAM
+Graphics: NVIDIA GeForce GTX 680 or AMD Radeon R9 290X or better (2 GB VRAM)
+DirectX: Version 11
+Network: Broadband Internet connection
+Hard Drive: 30 GB available space
+Sound Card: DirectX-compatible (5.1 surround sound recommended)
