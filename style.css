@@ -6,6 +6,7 @@ body {
 }
 
 html {
+	font-family: Tahoma;
 	margin:0;
     min-height: 100%;
     background-size: cover;
@@ -40,6 +41,7 @@ a {
 	border-right:1px solid #333333;
 }
 #menu-and-link {
+	font-size:14px;
 	line-height:40px;
 	text-align:center;
 	vertical-align:middle;
@@ -99,4 +101,10 @@ a {
 	width:100%;
 	margin-bottom:5px;
 	height:5px;
+}
+#product-link {
+	border:1px solid #000000;
+}
+#product-link:hover {
+	border:1px solid #00FFFF;
 }
