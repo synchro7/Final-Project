@@ -64,6 +64,14 @@ a {
 	margin-right:10px;
 	padding:10px;
 }
+.web-detail-container {
+	background:#000000;
+	color:#FFFFFF;
+	height:100%;
+	width:auto;
+	opacity:0.6;
+	padding:50px;
+}
 .maincontainer {
 	background:#000000;
 	color:#FFFFFF;
