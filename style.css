@@ -109,3 +109,7 @@ a {
 #product-link:hover {
 	border:1px solid #00FFFF;
 }
+#head-in-detail{
+	font-size:14px;
+	font-weight:bold;
+}
