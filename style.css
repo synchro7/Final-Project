@@ -60,13 +60,14 @@ a {
 	white-space:nowrap;
 }
 .ctgr {
+	font-size:14px;
 	background:#000000;
 	color:#FFFFFF;
-	height:500px;
-	width:200px;
+	height:250px;
+	width:160px;
 	opacity:0.6;
 	margin-right:10px;
-	padding:10px;
+	padding:20px;
 }
 .web-detail-container {
 	background:#000000;
