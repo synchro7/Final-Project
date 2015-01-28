@@ -63,7 +63,7 @@ a {
 	font-size:14px;
 	background:#000000;
 	color:#FFFFFF;
-	height:250px;
+	height:270px;
 	width:160px;
 	opacity:0.6;
 	margin-right:10px;
@@ -107,9 +107,17 @@ a {
 	border:1px solid #000000;
 }
 #product-link:hover {
-	border:1px solid #00FFFF;
+	border:1px solid #D50000;
 }
 #head-in-detail{
 	font-size:14px;
 	font-weight:bold;
+}
+.ctgr-link li{
+	list-style-type:square;
+}
+.ctgr-link li:hover{
+	color:#D50000;
+	font-weight:bold;
+	list-style-type:square;
 }
