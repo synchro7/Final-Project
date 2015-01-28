@@ -69,6 +69,9 @@ a {
 	margin-right:10px;
 	padding:20px;
 }
+.ctgr-text {
+	opacity:1.0;
+}
 .web-detail-container {
 	background:#000000;
 	color:#FFFFFF;
@@ -87,6 +90,7 @@ a {
 }
 .maincontainer td{
 	color:#FFFFFF;
+	opacity:1.0;
 }
 .footer{
 	padding-left:10px;
