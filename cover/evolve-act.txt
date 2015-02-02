@@ -1,0 +1,10 @@
+In a savage world of man vs nature, are you the hunter or the hunted? Turtle Rock Studios bring you Evolve, the next-generation of multiplayer shooters where four hunters face-off against a single, player-controlled monster. Stalk your prey, execute your attack and prove you are the apex predator in adrenaline-pumping 4V1 matches.
+
+MINIMUM: 
+OS: Windows 7 64-bit 
+Processor: Core 2 Duo E6600 / Athlon 64 X2 6400 
+Memory: 4 GB RAM 
+Graphics: NVIDIA GeForce GTX 560 / ATI Radeon HD 5770 
+DirectX: Version 11 
+Hard Drive: 50 GB available space 
+Sound Card: DirectX Compliant Sound card

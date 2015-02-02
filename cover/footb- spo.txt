@@ -1,0 +1,11 @@
+Football Manager is the most realistic, in-depth and immersive simulation of football management available, putting you in the hot-seat of almost any club in more than 50 countries across the world, including all of Europe’s biggest leagues. 
+
+Football Manager 2015 will allow you to live the life of a real football manager – you decide who plays and who sits on the bench, you're in total control of tactics, team-talks, substitutions and pitch-side instructions as you follow the match live with the acclaimed 3D match engine. 
+
+MINIMUM: 
+OS: Windows XP, Vista, 7, 8 
+Processor: Intel Pentium 4, Intel Core, AMD Athlon - XP: 1.6GHz+ V/7/8: 2.2GHz+ 
+Memory: 1 GB RAM 
+Graphics: NVidia GeForce FX 5900 Ultra, ATI Radeon 9800, Intel GMA X3100 - 128MB VRAM 
+DirectX: Version 9.0c 
+Hard Drive: 3 GB available space
