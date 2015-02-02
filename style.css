@@ -3,6 +3,7 @@
 body {
 	min-height:100%;
 	margin:0;
+	color:#FFFFFF;
 }
 
 html {
@@ -77,8 +78,12 @@ a {
 	color:#FFFFFF;
 	height:100%;
 	width:auto;
-	opacity:0.6;
+	opacity:0.8;
 	padding:50px;
+}
+.wdc-text {
+	color:#FFFFFF;
+	opacity:1.0;
 }
 .maincontainer {
 	background:#000000;
@@ -124,4 +129,20 @@ a {
 	color:#D50000;
 	font-weight:bold;
 	list-style-type:square;
+}
+#contact-form {
+	border:1px dashed #FFFFFF;
+	padding:10px;
+	border-radius:10px;
+}
+#contact-form td {
+	padding:10px;
+	vertical-align:top;
+}
+#form-button {
+	background:#FFFFFF; 
+	color:#000000; 
+	border:0px; 
+	padding:5px; 
+	border-radius:5px;
 }
