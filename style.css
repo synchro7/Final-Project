@@ -66,40 +66,35 @@ a:hover{
 }
 .ctgr {
 	font-size:14px;
-	background:#000000;
 	color:#FFFFFF;
 	height:270px;
 	width:160px;
-	opacity:0.6;
+	background-color: rgba(0,0,0,0.6);
 	margin-right:10px;
 	padding:20px;
 }
 .ctgr-text {
-	opacity:1.0;
+	color:#FFFFFF;
 }
 .web-detail-container {
-	background:#000000;
 	color:#FFFFFF;
 	height:100%;
 	width:auto;
-	opacity:0.8;
+	background-color: rgba(0,0,0,0.8);
 	padding:30px 50px 50px 50px;
 }
 .wdc-text {
 	color:#FFFFFF;
-	opacity:1.0;
 }
 .maincontainer {
-	background:#000000;
 	color:#FFFFFF;
 	height:100%;
 	width:auto;
-	opacity:0.8;
+	background-color: rgba(0,0,0,0.8);
 	padding:10px;
 }
 .maincontainer td{
 	color:#FFFFFF;
-	opacity:1.0;
 }
 .footer{
 	padding-left:10px;
@@ -117,7 +112,7 @@ a:hover{
 	height:5px;
 }
 #product-link {
-	border:1px solid #000000;
+	border:1px solid rgba(0,0,0,0.0);
 }
 #product-link:hover {
 	border:1px solid #D50000;
