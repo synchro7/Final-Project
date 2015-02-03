@@ -83,7 +83,7 @@ a:hover{
 	height:100%;
 	width:auto;
 	opacity:0.8;
-	padding:50px;
+	padding:30px 50px 50px 50px;
 }
 .wdc-text {
 	color:#FFFFFF;
@@ -185,4 +185,7 @@ a:hover{
 	width:32px;
 	position:absolute;
 	right:0px;
+}
+.cart-table td {
+	border-bottom:1px solid #FFFFFF;
 }
