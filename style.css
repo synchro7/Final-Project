@@ -21,6 +21,9 @@ a {
 	color:inherit;
 	border:0px;
 }
+a:hover{
+	color:#D50000;
+}
 
 .logo {
 	padding-top:5px;
@@ -140,9 +143,45 @@ a {
 	vertical-align:top;
 }
 #form-button {
-	background:#FFFFFF; 
-	color:#000000; 
+	color:#FFFFFF;
+	background:#D50000;
 	border:0px; 
 	padding:5px; 
 	border-radius:5px;
+}
+#form-textbox {
+	background:#FFFFFF;
+	border:0px; 
+	padding:5px; 
+	border-radius:5px;
+}
+#name-text {
+	font-size:36px;
+}
+#price-text {
+	font-size:24px;
+}
+#buy-button {
+	font-size:16px;
+	border:0px;
+	color:#FFFFFF;
+	background:#D50000;
+	padding:10px; 
+	border-radius:5px;
+}
+.cartlcon {
+	height:32px;
+	position:relative;
+}
+.cartlink {
+	background-image:url(images/cart.png);
+	background-position:right;
+	background-repeat:no-repeat;
+	padding-right:40px;
+	height:32px;
+	line-height:32px;
+	vertical-align:middle;
+	width:32px;
+	position:absolute;
+	right:0px;
 }
