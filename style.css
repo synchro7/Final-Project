@@ -113,9 +113,11 @@ a:hover{
 }
 #product-link {
 	border:1px solid rgba(0,0,0,0.0);
+	width:246px;
 }
 #product-link:hover {
 	border:1px solid #D50000;
+	width:246px;
 }
 #head-in-detail{
 	font-size:14px;
