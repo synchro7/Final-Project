@@ -92,6 +92,7 @@ a:hover{
 	width:auto;
 	background-color: rgba(0,0,0,0.8);
 	padding:10px;
+	clear:both;
 }
 .maincontainer td{
 	color:#FFFFFF;
@@ -110,6 +111,7 @@ a:hover{
 	width:100%;
 	margin-bottom:5px;
 	height:5px;
+	clear:both;
 }
 #product-link {
 	border:1px solid rgba(0,0,0,0.0);
